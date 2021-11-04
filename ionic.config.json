@@ -1,0 +1,7 @@
+{
+  "name": "exploring-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
